@@ -1,10 +1,11 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=003366&text=hi&fontAlign=50&animation=twinkling&fontColor=FFFF&section=header&descAlignY=50&descAlign=28" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=200&section=header&text=Madina%20Guliyeva&fontSize=40&fontColor=E4E6E7&animation=fadeIn&fontWeight=300" alt="header banner" />
 </p>
-<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&pause=1000&color=5C1F09&center=true&vCenter=true&width=600&lines=I'm+Madina;Aspiring+Developer+exploring+code" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&pause=1000&color=5C1F09&center=true&vCenter=true&width=500&lines=I'm+Madina;Aspiring+Developer+exploring+code;Future+Full+Stack+Developer" alt="Typing SVG" />
+  </a>
 </p>
 <p align="center">
   <img src="Bird Doctor GIF.gif" height="250" />
@@ -41,5 +42,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=003366&text=goodbye&fontAlign=50&animation=twinkling&fontColor=FFFF&section=footer&descAlignY=50&descAlign=28" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=003366&text=&fontAlign=50&animation=twinkling&fontColor=FFFF&section=footer&descAlignY=50&descAlign=28" />
 </p>
