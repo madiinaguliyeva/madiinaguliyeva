@@ -10,6 +10,11 @@
   <img src="Bird Doctor GIF.gif" height="250" />
 </p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=madiinaguliyeva.madiinaguliyeva&left_color=darkred&right_color=tomato"  />
+</div>
+
+
 ---
 
 <p align="center">
@@ -33,3 +38,8 @@
   <img src="https://raw.githubusercontent.com/madiinaguliyeva/madiinaguliyeva/output/snake.svg" alt="Snake animation" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=003366&text=goodbye&fontAlign=50&animation=twinkling&fontColor=FFFF&section=footer&descAlignY=50&descAlign=28" />
+</p>
