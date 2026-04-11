@@ -24,11 +24,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,vscode,visualstudio,git,github&theme=dark" />
   </a>
 </p>
 
 ---
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=madiinaguliyeva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&ring=1C565C&fire=1C565C&currStreakNum=1C565C&sideNums=E4E6E7&dates=808080" height="220" alt="streak graph"  />
 </div>
